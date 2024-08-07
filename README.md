@@ -4,7 +4,7 @@
 A feature-rich note-taking application built with Django for the backend API and React for the frontend. This application provides full CRUD (Create, Read, Update, Delete) capabilities for managing notes and incorporates user authentication with JWT tokens.
 
 ## App Demonstration
-![App Demo](assets/screenshots/noteTakerApp-ezgif.com-video-to-gif-converter.gif)
+![App Demo](assets/screenshots/notesAppDemo.gif)
 *App Demo*
 
 ## Features
