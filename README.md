@@ -38,4 +38,4 @@ A feature-rich note-taking application built with Django for the backend API and
         - DELETE /api/notes/delete/<int:pk>/ - Delete a specific note by its ID. 
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
